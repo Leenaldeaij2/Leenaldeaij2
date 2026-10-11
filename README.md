@@ -53,7 +53,9 @@
 <a href="https://github.com/Leenaldeaij2">
   <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-
+<a href="mailto:leenaldeaij@gmail.com">
+  <img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 <br/><br/>
 
 ---
