@@ -42,6 +42,7 @@
 
 - [Generative-AI-Introduction-and-Applications](https://github.com/Leenaldeaij2/Generative-AI-Introduction-and-Applications)
 - [Foundations of Project Management](https://github.com/Leenaldeaij2/project-management-/tree/main)
+- [🔐 Tuwaiq Cybersecurity CTF](https://github.com/Leenaldeaij2/CTF-attending-/tree/main)
 
 
 <h2>🤝 Connect with me:</h2>
