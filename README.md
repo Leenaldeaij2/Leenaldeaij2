@@ -40,7 +40,7 @@
 
 <h2>📚 Learning & Technical Challenges</h2>
 
-- [Challenge 1]()
+- [Generative-AI-Introduction-and-Applications](https://github.com/Leenaldeaij2/Generative-AI-Introduction-and-Applications)
 
 
 <h2>🤝 Connect with me:</h2>
